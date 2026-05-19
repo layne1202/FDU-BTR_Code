@@ -9,7 +9,6 @@ FDU-BTR is a global monthly surface-ocean pCO2 reconstruction workflow based on 
 - Basin-specific residual model training
 - Boundary blending
 - Monthly NetCDF generation
-- Figure generation
 
 ## Dataset
 
